@@ -62,8 +62,8 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215);
-    color:  rgb(215);
+    background-color: black;
+    color:  white;
 }
 
 .half{
